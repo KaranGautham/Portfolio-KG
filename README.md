@@ -1,2 +1,2 @@
 # Portfolio-KG
-This is my portfolio website. I document my learnings here
+This is my portfolio website. I document my learnings her
